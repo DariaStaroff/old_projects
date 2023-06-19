@@ -1,2 +1,2 @@
 # old_projects
-first version of projects done with Practicum
+Здесь будут лежать первые версии проектов, сделанных на курсе Аналитик Данных от Яндекс Практикума в 2020 году.
